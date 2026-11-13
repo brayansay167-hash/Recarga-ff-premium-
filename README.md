@@ -22,12 +22,6 @@ Página web en español para recargar diamantes de Free Fire con saldo móvil cu
 3. Pon tu ID, tu Nombre de FF, tu Nombre de cuenta y tu teléfono.
 4. Elige el paquete, revisa el resumen y toca el diamante para recargar en Next Level.
 
-## Notas importantes
-
-- Es una página estática: cada teléfono guarda solo sus propios datos (cuenta, pedidos, Top) y no se comparten entre teléfonos.
-- No envía saldo sola ni entra a cuentas de Next Level de otras personas. Solo se usa la cuenta del dueño.
-- El destino fijo de pago es el que se muestra en el resumen de la página.
-
 ## Archivos
 
 - `index.html` — toda la página en un solo archivo, con las imágenes incluidas.
